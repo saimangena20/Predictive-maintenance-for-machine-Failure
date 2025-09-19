@@ -1,7 +1,8 @@
 # Predictive-maintenance-for-machine-Failure
+
+Project Overview
 Developed an ML model for predictive maintenance using the AI4I 2020 dataset. The project demonstrates an end-to-end workflow, from data analysis and preprocessing with a scikit-learn pipeline to model training. The goal is to predict machine failures to minimize downtime and optimize maintenance.
 An End-to-End Predictive Maintenance Project
-Project Overview
 This project is a practical demonstration of an end-to-end machine learning workflow for predictive maintenance. Using the AI4I 2020 Predictive Maintenance dataset, a synthetic but realistic dataset, I developed a model to predict machine failures before they occur. The primary goal is to shift maintenance from a reactive or time-based approach to a proactive, data-driven one, thereby reducing unplanned downtime and optimizing operational efficiency.
 
 The project showcases a complete data science pipeline, from exploratory data analysis (EDA) and robust preprocessing to model training and performance evaluation using industry-standard metrics.
@@ -39,8 +40,3 @@ Confusion Matrix: A visualization of the model's predictions versus the actual o
 
 5. Final Model Performance
 The Random Forest Classifier achieved a strong F1-score, demonstrating its capability to identify rare machine failures effectively. The confusion matrix shows that the model is highly successful at correctly classifying normal operations while also identifying a substantial number of actual failure cases.
-
-Getting Started
-You can explore the full code and run this project yourself by clicking on the link below.
-
-Open in Google Colab https://colab.research.google.com/drive/1y2FJaU7RBheJxHUmNJ5SIXtaISa0w4an
